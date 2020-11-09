@@ -1,3 +1,4 @@
+/*AND & OR operator*/
 CREATE TABLE exercise_logs
     (id INTEGER PRIMARY KEY AUTOINCREMENT,
     type TEXT,
